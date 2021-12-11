@@ -2,15 +2,9 @@
 
 A news Application
 
-## Getting Started
+![WhatsApp Image 2021-12-11 at 11 49 27 PM](https://user-images.githubusercontent.com/68226836/145687414-efd32b60-1018-4821-85f6-67ea160eeba1.jpeg)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+It is digital newspaper app, which  aim is to shows without wasting papers. 
+Here you can find latest news.
+You can aslo seach it according to different keywords.
+And you can aslo filter with different categories like Bussiness, Entertainment,General,Health,Science,Sports,Technology,etc..
